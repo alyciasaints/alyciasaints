@@ -13,7 +13,7 @@
 
 <br><br>
 
-<img src="https://media.giphy.com/media/3o7qDEq2bMbcbPRQ2c/giphy.gif" width="300" alt="Matrix digital rain"/>
+
 
 <br>
 
